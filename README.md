@@ -19,4 +19,4 @@ A 3-part tutorial on how to create this app is available [here](https://medium.c
 - All Pokemon pictures
 - All stylized Type pictures
 
-
+All Pokemon images and data are freely available on PokemonDB.net. 
